@@ -2,7 +2,7 @@ import './App.css'
 import Biografia from './components/Biografia'
 import Footer from './components/Footer'
 import Youtube from './components/Youtube'
-import Spotify from './components/spotify'
+import Spotify from './components/Spotify'
 
 function App() {
 
