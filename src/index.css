@@ -16,3 +16,11 @@ body {
   background: radial-gradient(circle, rgba(0, 0, 0, 0.363) 0%, rgba(0, 0, 0, 0.589) 35%, rgba(0,0,0,0.8925945378151261) 100%), url("/backgroundTijolos.jpg");
   background-attachment: fixed;
 }
+
+@media screen and (max-width: 500px) {
+  
+  :root {
+    display: flex;
+  }
+
+}
